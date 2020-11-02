@@ -9,7 +9,7 @@ name: Wei Theng
 description: An Electrical and Electronics Engineer currently on placement, working at Disney Streaming Services as a Intern Software Engineer. I am passionate with building and fixing things, with a curiousity that is unbounded by anything! :)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: { site.baseurl }/images/profile.jpg
+avatar: https://raw.githubusercontent.com/weitheng/weitheng.github.io/master/images/profile.jpg
 
 #
 # Flags below are optional
